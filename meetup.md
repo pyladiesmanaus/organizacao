@@ -4,7 +4,7 @@
 
 * Definir o tema do evento
 
-* Marcar uma reunião com quem topa participar
+* Marcar uma reunião com quem demonstrar interesse em participar
    - Definir a data e hora do evento
    - Quem seria nosso público alvo? Pessoas da universidade ou geral?
    - Quantas pessoas podem se inscrever?
@@ -28,4 +28,14 @@
 * Montar arte de divulgação
 * Postar nas redes sociais (LinkedIn, Instagram, Facebook)
 * Após o evento, emitir certificado de participação
+
+
+### Considerações sobre o coffee break
+Para fornecer um coffee break, leve em consideração os seguintes fatores: 
+   - Conseguir uma aporte financeiro (tentar uma parceria com empresas)
+   - Contabilizar quantas pessoas irão participar do evento
+   - Realizar levantamento de preços baseado no número de pessoas inscritas, para definir o fornecedor com melhor custo benefício. Levar em consideração que em eventos gratuitos, geralmente, quantidade de pessoas que estarão presentes será menor. 
+   - Realizar a compra dos alimentos
+   - Comprar pratinhos, copos, talheres, guardanapo, sacolas de plástico para recolher o lixo que for deixado no local
+   - Geralmente, buscamos a encomenda diretamente na loja do fornecedor e levamos no dia do evento.
 
