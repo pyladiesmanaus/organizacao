@@ -30,9 +30,13 @@
 * Após o evento, emitir certificado de participação
 
 
+### Solicitação de auxílio financeiro da PSF
+A PSF (Python Software Foundation) fornece auxílio finaneiro para eventos realizados pelas PyLadies. Você não precisa pagar taxa ou algo do tipo para solicitar, basta realizar um cadastro no [site da PSF](https://psfmember.org/wp-login.php?action=register) e, em seguida, acessar a [página de grants](https://psfmember.org/grant-proposals/). Preencha o formulário com as informações solicitadas.
+
+
 ### Considerações sobre o coffee break
 Para fornecer um coffee break, leve em consideração os seguintes fatores: 
-   - Conseguir uma aporte financeiro (tentar uma parceria com empresas)
+   - Conseguir uma aporte financeiro (tentar uma parceria com empresas ou PSF)
    - Contabilizar quantas pessoas irão participar do evento
    - Realizar levantamento de preços baseado no número de pessoas inscritas, para definir o fornecedor com melhor custo benefício. Levar em consideração que em eventos gratuitos, geralmente, quantidade de pessoas que estarão presentes será menor. 
    - Realizar a compra dos alimentos
